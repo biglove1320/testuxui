@@ -1,0 +1,38 @@
+
+
+
+[{
+    "id":1,
+	"name": "ASUS MONITOR ROG Strix XG279Q-G GUNDAM EDITION",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "400",
+	"hero": "OMG This just came out today!",
+	"image": "https://www.bnn.in.th/pub/media/catalog/product/cache/e960f294cf534815b24fe57fbd9f1a95/a/s/asus-rog-strix-xg279q-gundam-edition-1-1617121153.jpg"
+},{
+    "id":2,
+	"name": "ASUS MONITOR VP249QGR",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "500",
+	"info": "This is the latest and greatest product from Derp corp.",
+	"image": "https://www.bnn.in.th/pub/media/catalog/product/cache/e960f294cf534815b24fe57fbd9f1a95/a/s/asus-vp249qgr-1-1616602479.jpg"
+},{
+    "id":3,
+	"name": "ASUS MONITOR VY279HE",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "600",
+	"offer": "BOGOF",
+	"image": "https://www.bnn.in.th/pub/media/catalog/product/cache/e960f294cf534815b24fe57fbd9f1a95/a/s/asus-monitor-vy279he-1-1616602463.jpg"
+},{
+    "id":4,
+	"name": "MSI MONITOR OPTIX G27CQ4",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "700",
+	"image": "https://www.bnn.in.th/pub/media/catalog/product/cache/e960f294cf534815b24fe57fbd9f1a95/m/s/msi-optix-g27cq4-165hz-1-1616688864.jpg"
+},{
+    "id":5,
+	"name": "MSI MONITOR OPTIX MAG342CQRV",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "800",
+	"offer": "No srsly GTFO",
+	"image": "https://www.bnn.in.th/pub/media/catalog/product/cache/e960f294cf534815b24fe57fbd9f1a95/m/s/msi-optix-mag342cqrv-100hz-1-1616775522.jpg"
+}]
